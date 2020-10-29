@@ -5,4 +5,11 @@
     "content": "Курс по Python от Skillbox",
     "price": "5000"
   }
+  
+  "web": {
+    "title": "Курс по Вуеб-вёрстке",
+    "link": "http://skillbox.ru/",
+    "content": "Курс по Веб-вёрстке от Skillbox",
+    "price": "6000"
+  }
 }
